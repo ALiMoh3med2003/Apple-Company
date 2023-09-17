@@ -310,6 +310,7 @@ transition: all .5s;
     text-align: center;
     overflow: hidden;
     font-size: 32px;
+    cursor: pointer;
 }
 .black{
     width: 45px;
